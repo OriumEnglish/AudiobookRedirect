@@ -1,6 +1,6 @@
 {
-  "trailingSlash": false,
+  "version": 2,
   "rewrites": [
-    { "source": "/:key", "destination": "/api/redirect?key=:key" }
+    { "source": "/(.*)", "destination": "/api/redirect?key=$1" }
   ]
 }
