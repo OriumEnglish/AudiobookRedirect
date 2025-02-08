@@ -3,7 +3,7 @@ export default async function handler(req, res) {
     const key = query.key;
 
     // GitHub JSON URL (본인 저장소 URL로 변경!)
-    const jsonUrl = "https://raw.githubusercontent.com/USERNAME/redirect-links/main/data.json";
+    const jsonUrl = "https://raw.githubusercontent.com/OriumEnglish/AudiobookRedirect/main/data.json";
 
     try {
         const response = await fetch(jsonUrl);
