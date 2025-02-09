@@ -9,11 +9,14 @@ export default async function handler(req, res) {
         const response = await fetch(jsonUrl);
         const data = await response.json();
 
-        if (data[key]) {
-            return res.redirect(301, data[key]); // 영구 리디렉션
-        } else {
-            return res.status(404).json({ error: "Not Found" });
+        // 모든 카테고리를 탐색하며 key 찾기
+        for (const category in data) {
+            if (data[category][key]) {
+                return res.redirect(301, data[category][key]); // 영구 리디렉션
+            }
         }
+
+        return res.status(404).json({ error: "Not Found" });
     } catch (error) {
         return res.status(500).json({ error: "Failed to fetch data" });
     }
