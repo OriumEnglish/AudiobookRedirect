@@ -11,7 +11,7 @@ export default async function handler(req, res) {
 
         // 모든 카테고리를 탐색하며 key 찾기
         for (const category in data) {
-            if (data[category][key]) {
+            if (data[category] && data[category][key]) {
                 return res.redirect(301, data[category][key]); // 영구 리디렉션
             }
         }
