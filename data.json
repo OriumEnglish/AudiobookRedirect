@@ -180,16 +180,16 @@
         "pr711": "https://on.soundcloud.com/VoPBX9eTVFUgsUk37"
     },
     "TPRS Beginner": {  
-    	"tprsb013": "https://quizlet.com/kr/1006188373/tprs-4-part-1-flash-cards/",  
-        "tprsb014": "https://quizlet.com/kr/1006189173/tprs-4-part-2-flash-cards/?i=52u4py&x=1jqY",  
-        "tprsb015": "https://quizlet.com/kr/1006188960/tprs-4-part-3-flash-cards/?i=52u4py&x=1jqY",  
-        "tprsb016": "https://quizlet.com/kr/1006189753/tprs-4-part-4-flash-cards/?i=52u4py&x=1jqY"  
+    	"tprsb013v": "https://quizlet.com/kr/1006188373/tprs-4-part-1-flash-cards/",  
+        "tprsb014v": "https://quizlet.com/kr/1006189173/tprs-4-part-2-flash-cards/?i=52u4py&x=1jqY",  
+        "tprsb015v": "https://quizlet.com/kr/1006188960/tprs-4-part-3-flash-cards/?i=52u4py&x=1jqY",  
+        "tprsb016v": "https://quizlet.com/kr/1006189753/tprs-4-part-4-flash-cards/?i=52u4py&x=1jqY"  
     },
     "TPRS Upper Beginner": {
-        "tprsb013u": "https://quizlet.com/kr/1006377166/tprs-upper-4-part-1-flash-cards/?i=52u4py&x=1jqY",
-        "tprsb014u": "https://quizlet.com/kr/1006378443/tprs-upper-4-part-2-flash-cards/?i=52u4py&x=1jqY",
-        "tprsb015u": "https://quizlet.com/kr/1006379289/tprs-upper-4-part-3-flash-cards/?i=52u4py&x=1jqY",
-        "tprsb016u": "https://quizlet.com/kr/1006380525/tprs-upper-4-part-4-flash-cards/?i=52u4py&x=1jqY"
+        "tprsb013vu": "https://quizlet.com/kr/1006377166/tprs-upper-4-part-1-flash-cards/?i=52u4py&x=1jqY",
+        "tprsb014vu": "https://quizlet.com/kr/1006378443/tprs-upper-4-part-2-flash-cards/?i=52u4py&x=1jqY",
+        "tprsb015vu": "https://quizlet.com/kr/1006379289/tprs-upper-4-part-3-flash-cards/?i=52u4py&x=1jqY",
+        "tprsb016vu": "https://quizlet.com/kr/1006380525/tprs-upper-4-part-4-flash-cards/?i=52u4py&x=1jqY"
     },
     "Intermediate Videos": {
         "l2v15": "https://youtu.be/rAgDaD01XAU?si=MN5_A4LX8Uy43KVG&t=385",
