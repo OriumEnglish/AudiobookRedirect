@@ -1,4 +1,4 @@
-{
+#{
     "Audiobooks": {
         "hm1": "https://soundcloud.com/songhyun-lee-662425962/sets/henry-and-mudge-the-first-book/s-csDK0k2hlW2?si=67d65b9eca04454d857d06a52b6d097c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         "hm2": "https://soundcloud.com/songhyun-lee-662425962/sets/henry-and-mudge-in-puddle-trouble/s-FkckW6HKlPQ?si=918c959b6ee54bdb9aa499ed75686c3e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
@@ -184,6 +184,12 @@
         "tprsb014": "https://quizlet.com/kr/1006189173/스토리영어-4-part-2-flash-cards/?i=52u4py&x=1jqY",
         "tprsb015": "https://quizlet.com/kr/1006188960/스토리영어-4-part-3-flash-cards/?i=52u4py&x=1jqY",
         "tprsb016": "https://quizlet.com/kr/1006189753/tprs-4-part-4-flash-cards/?i=52u4py&x=1jqY"
+    },
+    "TPRS Upper Beginner": {
+        "tprsb013u": "https://quizlet.com/kr/1006377166/tprs-upper-4-part-1-flash-cards/?i=52u4py&x=1jqY",
+        "tprsb014u": "https://quizlet.com/kr/1006378443/tprs-upper-4-part-2-flash-cards/?i=52u4py&x=1jqY",
+        "tprsb015u": "https://quizlet.com/kr/1006379289/tprs-upper-4-part-3-flash-cards/?i=52u4py&x=1jqY",
+        "tprsb016u": "https://quizlet.com/kr/1006380525/tprs-upper-4-part-4-flash-cards/?i=52u4py&x=1jqY"
     },
     "Intermediate Videos": {
         "l2v15": "https://youtu.be/rAgDaD01XAU?si=MN5_A4LX8Uy43KVG&t=385",
